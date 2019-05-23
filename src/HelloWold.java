@@ -6,11 +6,11 @@ public class HelloWold {
 		test("hello");
 	}
 	
-	public static void test(String s) {
-		System.out.println(s);
+	public static void test(String ste) {
+		System.out.println(ste);
 	}
 
 	public static void test(){
-		System.out.println("git hello");
+		System.out.println("gt hello");
 	}
 }
