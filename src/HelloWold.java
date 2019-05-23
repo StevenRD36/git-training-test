@@ -6,7 +6,7 @@ public class HelloWold {
 		test("hello");
 	}
 	
-	public static void test(String s) {
-		System.out.println(s);
+	public static void test(String steee) {
+		System.out.println(steee);
 	}
 }
