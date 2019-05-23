@@ -7,6 +7,8 @@ public class HelloWold {
 	}
 	
 	public static void test(String steee) {
+		//other line
+		int i = 5+5;
 		System.out.println(steee);
 }
 	public static void test(){
