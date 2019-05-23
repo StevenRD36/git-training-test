@@ -7,7 +7,8 @@ public class HelloWold {
 	}
 	
 	public static void test(String steee) {
-		System.out.println(steee);
+//test file
+		System.out.println(stee);
 }
 	public static void test(){
 		System.out.println("gt hello");
