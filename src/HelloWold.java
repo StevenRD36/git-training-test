@@ -8,5 +8,8 @@ public class HelloWold {
 	
 	public static void test(String steee) {
 		System.out.println(steee);
+}
+	public static void test(){
+		System.out.println("gt hello");
 	}
 }
